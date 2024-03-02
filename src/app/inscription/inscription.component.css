@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+
+}
+
+label {
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+}
+
+.alert-danger {
+    background-color: #f44336;
+    /* Red */
+}
+
+.alert-success {
+    background-color: #36f456;
+}
+
+.alert {
+    padding: 20px;
+    color: red;
+    margin-bottom: 15px;
+    text-align: center;
+}
